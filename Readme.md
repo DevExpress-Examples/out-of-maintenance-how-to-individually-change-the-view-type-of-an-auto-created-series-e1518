@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ChangeViewOfAnAutoSeries/Form1.cs) (VB: [Form1.vb](./VB/ChangeViewOfAnAutoSeries/Form1.vb))
+<!-- default file list end -->
 # How to individually change the view type of an auto-created series
 
 
